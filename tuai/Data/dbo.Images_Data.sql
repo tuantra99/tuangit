@@ -1,0 +1,2 @@
+INSERT INTO [dbo].[Images] ([Id], [Name], [Address], [ImgPath]) VALUES ('25e7a467-d5d7-467f-b7db-0d04716a39fe', N'ddddddddddddd', N'ddddddddddddddddddd', N'StaticFiles\Images\pngtree-piggy-little-pig-pink-pink-pig-png-image_3932355.png')
+INSERT INTO [dbo].[Images] ([Id], [Name], [Address], [ImgPath]) VALUES ('88eefffa-9a73-450e-a770-ee546e7be5a2', N'ĐẤDƯ', N'ĐÂS', N'StaticFiles\Images\pngtree-piggy-little-pig-pink-pink-pig-png-image_3932355.png')
