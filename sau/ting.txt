@@ -1,3 +1,6 @@
 tuantuantuan
 
+<<<<<<< HEAD
 daidaidai
+vuvuvuvuvuvu
+>>>>>>> 
