@@ -1,10 +1,7 @@
-tui
+
+tui	
 tui
 tui
 tui
 
-vuvuvuvuvuvuvuvuvuvu
-
-<<<<<<< HEAD
-hihihihihihihihihihihi
->>>>>>> 8f6cc755166e38b1a9645ad2a0be77aaf6d11559
+tuantuantuantuantuantuantuan
